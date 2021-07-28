@@ -1,0 +1,136 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  background-color: black;
+  padding: 40px;
+  margin: 0px 0px 40px 0px;
+  text-align: center;
+}
+
+.title-word {
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+  position: relative;
+  right: 400px;
+}
+
+.container-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0;
+  white-space: nowrap;
+}
+
+.table {
+  border: 1px groove;
+  font-size: 16px;
+  padding: 8.5px 123.525px 8.5px 123.525px;
+  margin-right: 14px;
+}
+
+.form {
+  border: 1px groove;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 8.5px 123.525px 8.5px 123.525px;
+  margin-right: 14px;
+}
+
+.list {
+  border: 1px groove;
+  font-size: 16px;
+  padding: 8.5px 123.525px 8.5px 123.525px;
+}
+
+.element {
+  margin-top: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  right: 458px;
+}
+
+.element-line {
+  margin: 10px 0px 30px 0px;
+  width: 998px;
+}
+
+.table-element {
+  border: 1px groove #d1d1d1;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  background-color: #f7f7f7;
+  padding: 15px 0px 15px 15px;
+  flex-grow: 1;
+  width: 985px;
+}
+
+.form-element {
+  margin-top: 30px;
+  border: 1px groove #d1d1d1;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  background-color: #f7f7f7;
+  padding: 15px 0px 15px 15px;
+  flex-grow: 1;
+  width: 985px;
+}
+
+.list-element {
+  margin-top: 30px;
+  border: 1px groove #d1d1d1;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  background-color: #f7f7f7;
+  padding: 15px 0px 15px 15px;
+  flex-grow: 1;
+  width: 985px;
+}
+
+.content-area1 {
+  font-size: 12px;
+  color: #000;
+  border: 1px groove #d1d1d1;
+  padding: 30px 30px 30px 30px;
+  width: 940px;
+}
+
+.content-area2 {
+  font-size: 12px;
+  color: #000;
+  border: 1px groove #d1d1d1;
+  padding: 30px 30px 30px 30px;
+  width: 940px;
+}
+
+.content-area3 {
+  font-size: 12px;
+  color: #000;
+  border: 1px groove #d1d1d1;
+  padding: 30px 30px 30px 30px;
+  width: 940px;
+  margin-bottom: 40px;
+}
+
+.last-line {
+  width: 100%;
+  border: 1px solid #d1d1d1;
+}
+
+.address {
+  font-size: 12px;
+  color: #999;
+}
+
+.copyright {
+  font-size: 12px;
+  color: #000;
+}
